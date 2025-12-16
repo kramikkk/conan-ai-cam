@@ -143,6 +143,6 @@ Educational and research use only.
 
 ## Author
 
-Mark Jeric Exconde
-Jasmine Q. Macalintal
+[Mark Jeric Exconde](https://github.com/kramikkk)  
+[Jasmine Q. Macalintal](https://github.com/Mimineeeee)
 
