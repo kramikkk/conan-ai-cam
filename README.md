@@ -60,10 +60,13 @@ Link: https://app.cirkitdesigner.com/project/543aeb1d-fdce-4df9-b33e-9e808db4946
 
 Below is a demonstration of the Conan-AI-Cam in action:
 
-
-| ![Demo 1](docs/demo1.jpg) | ![Demo 2](docs/demo2.jpg) |
-|:-------------------------:|:-------------------------:|
-| ![Demo 3](docs/demo3.jpg) | ![Demo 4](docs/demo4.jpg) |
+<p align="center">
+	<img src="docs/demo1.JPG" alt="Demo 1" width="45%" style="margin: 2px;"/>
+	<img src="docs/demo2.JPG" alt="Demo 2" width="45%" style="margin: 2px;"/>
+	<br/>
+	<img src="docs/demo3.JPG" alt="Demo 3" width="45%" style="margin: 2px;"/>
+	<img src="docs/demo4.JPG" alt="Demo 4" width="45%" style="margin: 2px;"/>
+</p>
 
 
 Watch the full video demo on YouTube: [https://youtube.com/shorts/EPAwnLHnLsA?feature=share](https://youtube.com/shorts/EPAwnLHnLsA?feature=share)
