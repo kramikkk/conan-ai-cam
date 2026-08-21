@@ -1,6 +1,10 @@
 
 # Conan-AI-Cam
 
+<p align="center">
+  <img src="docs/conan-ai-cam-cover-photo.jpeg" alt="Conan-AI-Cam cover photo"/>
+</p>
+
 Conan-AI-Cam is an embedded AI vision project that performs real-time object detection on the edge using an ESP32-CAM. The system captures live video, runs an on-device machine learning (TinyML) model, and displays detection results such as class labels on a TFT LCD or streams them wirelessly.
 
 ---
@@ -145,4 +149,3 @@ Educational and research use only.
 
 [Mark Jeric Exconde](https://github.com/kramikkk)  
 [Jasmine Q. Macalintal](https://github.com/Mimineeeee)
-
